@@ -3,7 +3,7 @@ A simple web project that checks your internet speed by downloading a random ima
 calculating the speed in **bps**, **kbps**, and **mbps** using JavaScript.
 
 ## 🚀 Live Demo
-🔗 
+🔗 https://chiru7995.github.io/Detect-Internet-Speed/
 
 ## ✨ Features
 
